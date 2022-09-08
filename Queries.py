@@ -1,9 +1,4 @@
 """
-Samira Omerovic
-CYBR-260-40
-Week 7: Final Project
-July 1, 2022
-
 This class is used to execute queries to the database
 """
 

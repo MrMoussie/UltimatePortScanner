@@ -1,9 +1,4 @@
 """
-Samira Omerovic
-CYBR-260-40
-Week 7: Final Project
-July 1, 2022
-
 This class is the main class of the program.
 This class contains the port scanning functionality as well as the menu printing and formatting
 """
